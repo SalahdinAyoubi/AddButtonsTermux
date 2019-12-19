@@ -1,6 +1,6 @@
 # AddButtonsTermux
 
-command add button of termux  :
+# command add button of termux  :
 
 1 - git clone https://github.com/SalahdinAyoubi/AddButtonsTermux
 
@@ -12,4 +12,3 @@ command add button of termux  :
 
 5 - python AddButtonsTermux.py
 
-6 - you don't add star in github 
