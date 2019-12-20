@@ -1,6 +1,6 @@
 # AddButtonsTermux
 
-# command add button of termux  :
+# how to installed :
 
 1 - git clone https://github.com/SalahdinAyoubi/AddButtonsTermux
 
