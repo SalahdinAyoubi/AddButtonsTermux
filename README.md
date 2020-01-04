@@ -1,5 +1,7 @@
 # AddButtonsTermux
 
+ add key in termux 
+
 # Installation :
 
 1 - git clone https://github.com/SalahdinAyoubi/AddButtonsTermux
